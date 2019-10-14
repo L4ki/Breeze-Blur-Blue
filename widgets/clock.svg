@@ -24,11 +24,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="980"
+     inkscape:window-height="977"
      id="namedview78"
      showgrid="false"
      inkscape:zoom="3.337544"
-     inkscape:cx="82.345236"
+     inkscape:cx="89.386218"
      inkscape:cy="84.207437"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -326,7 +326,7 @@
        transform="translate(-753.93395,199.18469)"
        d="m 1777.8958,382.03223 a 6.4994531,6.4994531 0 0 1 -6.4994,6.49945 6.4994531,6.4994531 0 0 1 -6.4995,-6.49945 6.4994531,6.4994531 0 0 1 6.4995,-6.49946 6.4994531,6.4994531 0 0 1 6.4994,6.49946 z"
        id="path5455-2"
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
+       style="fill:#5599ff;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="MinuteHand"
@@ -346,7 +346,7 @@
        style="fill:#5599ff;stroke:none;fill-opacity:1"
        transform="matrix(0.8642748,-0.50301995,0.50301995,0.8642748,0,0)" />
     <path
-       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       style="fill:#5599ff;fill-opacity:1;stroke:none"
        id="path5457"
        d="m 1777.8958,382.03223 a 6.4994531,6.4994531 0 0 1 -6.4994,6.49945 6.4994531,6.4994531 0 0 1 -6.4995,-6.49945 6.4994531,6.4994531 0 0 1 6.4995,-6.49946 6.4994531,6.4994531 0 0 1 6.4994,6.49946 z"
        transform="matrix(0.56475116,0,0,0.56475116,17.103729,365.50423)" />
@@ -361,7 +361,7 @@
        height="1.7321701"
        width="77.735947"
        id="rect6212"
-       style="fill:#5599ff;fill-opacity:1;stroke:none" />
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
     <rect
        transform="matrix(-0.50061728,-0.86566873,0.86566873,-0.50061728,985.87226,726.54885)"
        y="96"
