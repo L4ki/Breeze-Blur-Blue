@@ -13,4 +13,9 @@ Changelog: 13.09.2019.
 
 Added widgets: bar_meter_vertical.svg and line.svg
 
+Changelog: 14.10.2019.
+----------------------
+
+Widgets correction: bar_meter_vertical.svg, clock.svg
+
 
