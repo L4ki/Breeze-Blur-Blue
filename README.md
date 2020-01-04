@@ -18,4 +18,9 @@ Changelog: 14.10.2019.
 
 Widgets correction: bar_meter_vertical.svg, clock.svg
 
+Changelog: 04.01.2020.
+----------------------
+
+Redesigned Theme
+
 
