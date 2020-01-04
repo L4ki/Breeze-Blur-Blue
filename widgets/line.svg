@@ -32,15 +32,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.7743753"
-     inkscape:cx="29.07201"
+     inkscape:cx="5.9833382"
      inkscape:cy="14.852091"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="980"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -145,7 +145,7 @@
          width="32"
          id="rect831"
          class="ColorScheme-Text"
-         style="opacity:1;fill:#3daee9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#083248;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          style="opacity:1;fill:none;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:1.78699994;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          class="ColorScheme-Highlight"
@@ -167,7 +167,7 @@
        id="vertical-line"
        transform="rotate(90,63,43)">
       <rect
-         style="opacity:1;fill:#3daee9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#083248;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97878015;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          class="ColorScheme-Text"
          id="rect833"
          width="32"

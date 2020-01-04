@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="35.013474"
    height="80.000534"
    sodipodi:docname="button.svg"
@@ -22,7 +22,7 @@
    inkscape:export-ydpi="90"
    version="1.0">
   <sodipodi:namedview
-     inkscape:window-height="976"
+     inkscape:window-height="977"
      inkscape:window-width="1280"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -31,15 +31,15 @@
      objecttolerance="10.0"
      borderopacity="1.0"
      bordercolor="#666666"
-     pagecolor="#e3f9ff"
+     pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="21.225644"
-     inkscape:cx="37.014164"
-     inkscape:cy="57.812762"
+     inkscape:zoom="7.5043984"
+     inkscape:cx="-1.0352113"
+     inkscape:cy="48.412038"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
-     showgrid="true"
+     showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-guide="false"
@@ -589,7 +589,7 @@
      height="2"
      width="1.9999974"
      id="hint-stretch-borders"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="fill:#aaccff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
